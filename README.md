@@ -24,8 +24,8 @@ This program works by using your windows firewall to block matchmaking relays/ip
 ### Compiling
 + Python 3+
 + PyPI Packages:
-  + [´requests´](https://pypi.org/project/requests/)
-  + [´ttkbootstrap´](https://pypi.org/project/ttkbootstrap/)
+  + [`requests`](https://pypi.org/project/requests/)
+  + [`ttkbootstrap`](https://pypi.org/project/ttkbootstrap/)
 
  ## Download
  ### [Latest (Windows 7/8/8.1/10/11)](https://github.com/Fluiding/MM-Region-Changer/releases/latest/)
@@ -42,9 +42,9 @@ This program works by using your windows firewall to block matchmaking relays/ip
 + performance improved
 
  ## Preview
- ### Version 1.4
+### Video
+#### https://github.com/Fluiding/MM-Region-Changer/assets/33377424/9cb0ad84-84e2-402b-9524-cd071f8fd4f4
  ![image](https://github.com/Fluiding/MM-Region-Changer/assets/33377424/6dd34c8c-4603-43f7-ae6a-210560489730)
-
 
  ## Frequent Questions
  ### Is this against the rules?
