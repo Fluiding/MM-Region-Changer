@@ -12,8 +12,8 @@
   </p>
 
 ## Introduction
- You can choose where your matchmaking game is gonna be located, for example, if you live in East Europe and want
- to get rid of russians, select everything except for East Europe and you will only get queued with people that aren't in or near East Europe.
+ You can choose where your matchmaking game is gonna be located, for example, if you live in East Europe and want to get rid of russians,
+ select anything except for East Europe and you will get queued with the people near the regions you select.
 
 This program works by using your windows firewall to block matchmaking relays/ip addresses.
   
